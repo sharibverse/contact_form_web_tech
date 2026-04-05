@@ -15,7 +15,7 @@ contact_form_project/
 ├── script.js          ← Form validation (JavaScript)
 ├── process.php        ← Handles form data & saves it
 ├── submissions.log    ← All submitted messages saved here
-├── database.sql       ← (Optional) MySQL table
+
 └── README.md          ← This file
 ```
 
